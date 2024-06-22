@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "rollno": "101",
+      "name": "Kalpana Sharma",
+      "city": "Sohagpur",
+      "fees": "100000"
+    },
+    {
+      "id": "2",
+      "rollno": "102",
+      "name": "Shiksha",
+      "city": "sohagpur",
+      "fees": "50000"
+    },
+    {
+      "id": "4",
+      "rollno": "104",
+      "name": "Ram",
+      "city": "Bhopal",
+      "fees": "60000"
+    }
+  ]
+}
